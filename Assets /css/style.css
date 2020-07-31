@@ -1,0 +1,24 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.ricomida{
+    font-family: 'Lobster', cursive;
+}
+.btn-light{
+    border-color: grey;
+}
+.slider-img{
+    padding: 7px;
+}
+.carousel{
+    height:170px ;
+}
+.slider-img img{
+    width: 100%;
+}
+.text-decoration{
+text-decoration: underline;
+}
+.btn-danger{
+    border-color:white;   
+}
